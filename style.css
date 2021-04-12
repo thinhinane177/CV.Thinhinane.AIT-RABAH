@@ -1,0 +1,65 @@
+    body
+    {
+        font-family: tahoma, 'Times New Roman', Times, serif;
+        font-size: small;
+    
+    }
+
+    #bloc_page 
+    {
+        width: 1100px;
+        margin: auto;
+        border: 1px solid rgb(0, 112, 192);
+        box-shadow: 4px 4px 0px black;
+                        
+    }
+
+
+
+    #information h1 
+    {
+        color: blue;
+        text-decoration: underline;
+
+        
+    }
+    #information 
+    {
+
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+
+        
+
+    }
+    #infoGauche
+    {
+        width: 500px;
+
+    }
+
+    #infoGauche ul
+    {
+        list-style-type: none;
+
+    
+    }
+
+    a{
+        
+            text-decoration: none;
+            color: rgb(0, 112, 192);       
+        
+    }
+
+    #infoDroite
+    {
+        width: 500px;
+    }
+
+    #langues ul
+
+    {
+        list-style-type: none;
+    }

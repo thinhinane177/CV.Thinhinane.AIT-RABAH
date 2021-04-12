@@ -1,0 +1,50 @@
+  header
+  {
+      display: flex;
+      background-color: rgb(0, 112, 192);
+      color: white;
+      flex-direction: row; 
+      height: auto;
+      align-items: center;
+      justify-content: space-around;
+
+    
+
+  }
+  a :hover
+  {
+     color: brown;
+  }
+
+  #information
+
+  {  
+    justify-content: space-around;
+
+      
+  }
+    
+  #coordonnées
+  {
+    border-left: solid white;
+    justify-content: center;
+    font-size: large ;
+    font-family: tahoma, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 450px;
+  padding-left: 2px;
+
+  }
+
+  #description 
+  {
+    text-align: center;
+    width: 450px; ;
+  }
+
+  article p
+  {
+    text-align: center;
+    font-size: 13px;
+  }
+
+
